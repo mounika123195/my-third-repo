@@ -1,0 +1,28 @@
+
+Student Profile:
+
+Student ID	: 2458850268
+
+Name		: Mounika chintala
+
+Gender		: Female
+
+Date of Birth   : 01-09-2005
+
+Email		: chintalamounika195@gmail.com
+
+Phone		: +91 9494528211
+
+Address		: J.kothuru , Jaggampeta Mandal, Kakinada District
+
+Course		: BCA (Computer Science)
+
+Year/Semester   : 3rd Year / 5th Semester
+
+Roll Number	: 61
+
+Admission Date  : 15-07-2023
+
+Guardian Name   : chintala kannaroa
+
+Guardian Contact: +91 9701299711
